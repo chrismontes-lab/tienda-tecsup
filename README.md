@@ -1,9 +1,9 @@
 
 # Tienda TECSUP
 
-![License](https://img.shields.io/github/license/chrismontes-lab/tienda-tecsup)
-![Languages](https://img.shields.io/github/languages/count/chrismontes-lab/tienda-tecsup)
-![Last Commit](https://img.shields.io/github/last-commit/chrismontes-lab/tienda-tecsup)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 Aplicación web sencilla que muestra productos de la tienda TECSUP.
 Permite visualizar precios, cantidades y calcular automáticamente
@@ -90,4 +90,4 @@ Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para conocer cómo colabo
 
 ## Licencia
 
-Este proyecto utiliza la licencia MIT. Consulta el archivo [LICENSE](LICENSE).
+Este proyecto todavía no tiene una licencia de uso definida.
